@@ -15,3 +15,5 @@
    0   3
   / \
  2   4
+ 
+Anlamadığım bir şekilde ağaç yapısının alt kısmı düzgün görüntülenmiyor. Bayağı bir uğraştım ama olmadı. Mecbur böyle bıraktım.
